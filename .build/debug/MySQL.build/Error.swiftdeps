@@ -1,0 +1,53 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Error"
+provides-nominal:
+- "O5MySQL5Error"
+provides-member:
+- ["O5MySQL5Error", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Error"
+- "String"
+- "Swift"
+depends-member:
+- ["O5MySQL5Error", "String"]
+- ["O5MySQL5Error", "_code"]
+- ["O5MySQL5Error", "_domain"]
+- ["O5MySQL5Error", "_getEmbeddedNSError"]
+- ["O5MySQL5Error", "_userInfo"]
+- ["O5MySQL5Error", "connection"]
+- ["O5MySQL5Error", "deinit"]
+- ["O5MySQL5Error", "execute"]
+- ["O5MySQL5Error", "fetchFields"]
+- ["O5MySQL5Error", "inputBind"]
+- ["O5MySQL5Error", "outputBind"]
+- ["O5MySQL5Error", "prepare"]
+- ["O5MySQL5Error", "serverInit"]
+- ["O5MySQL5Error", "statement"]
+- ["Ps5Error", "_code"]
+- ["Ps5Error", "_domain"]
+- ["Ps5Error", "_getEmbeddedNSError"]
+- ["Ps5Error", "_userInfo"]
+- ["Ps5Error", ""]
+depends-nominal:
+- "O5MySQL5Error"
+- "Ps5Error"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Core.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/libc.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/JSON.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Jay.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Node.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/PathIndexable.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Polymorphic.swiftmodule"
+interface-hash: "de0546872ca2ccf730502af07b76a2ca"

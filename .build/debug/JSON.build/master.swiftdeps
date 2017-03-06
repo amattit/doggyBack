@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "12c266575ce394548bff396bdaf1938f"
+build_time: [542102291, 385738000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/File.swift": [541637264, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSON+Bytes.swift": [541637263, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSON+Equatable.swift": [541637263, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSON+Node.swift": [541637264, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSON+Parse.swift": [541637264, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSON+Serialize.swift": [541637264, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSON.swift": [541637263, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/JSONRepresentable.swift": [541637264, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/JSON-1.0.6/Sources/JSON/Sequence+Convertible.swift": [541637263, 0]

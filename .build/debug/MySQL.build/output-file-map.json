@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/master.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Bind+Node.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind+Node.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind+Node.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind+Node~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind+Node.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Bind.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Bind.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Binds.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Binds.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Binds.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Binds~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Binds.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Connection.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Connection.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Connection.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Connection.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Database.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Database.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Database.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Database.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Error.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Error.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Error.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Error.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Field+Variant.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field+Variant.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field+Variant.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field+Variant~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field+Variant.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Field.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Field.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Fields.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Fields.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Fields.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Fields~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/Fields.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Date.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Date.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Date.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Date.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Node.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Node.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Node.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Node~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/MySQL.build/MySQL+Node.swiftdeps"
+  }
+}

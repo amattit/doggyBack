@@ -1,0 +1,252 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Field"
+provides-nominal:
+- "C5MySQL5Field"
+provides-member:
+- ["C5MySQL5Field", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "MYSQL_FIELD"
+- "AssignmentPrecedence"
+- !private "Array"
+- !private "UnsafeBufferPointer"
+- !private "Int"
+- "Field"
+- !private "Byte"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "Array"]
+- !private ["Ps9AnyObject", "Byte"]
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "UnsafeBufferPointer"]
+- !private ["Ps9AnyObject", "cField"]
+- !private ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- !private ["Sa", "deinit"]
+- !private ["Sa", "init"]
+- !private ["Sa", "string"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps23BidirectionalCollection", "string"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "init"]
+- !private ["Ps22BidirectionalIndexable", "string"]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "string"]
+- !private ["Ps7CVarArg", "withMemoryRebound"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps10Collection", "string"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "withMemoryRebound"]
+- !private ["P4Node7Context", "Iterator"]
+- !private ["P4Node7Context", "_Element"]
+- !private ["P4Node7Context", "init"]
+- !private ["P4Node7Context", "string"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "string"]
+- !private ["Ps28CustomDebugStringConvertible", "withMemoryRebound"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "withMemoryRebound"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "string"]
+- !private ["Ps17CustomReflectable", "withMemoryRebound"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "string"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "withMemoryRebound"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "string"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["C5MySQL5Field", "Array"]
+- !private ["C5MySQL5Field", "Byte"]
+- ["C5MySQL5Field", "CField"]
+- !private ["C5MySQL5Field", "Int"]
+- ["C5MySQL5Field", "MYSQL_FIELD"]
+- ["C5MySQL5Field", "String"]
+- !private ["C5MySQL5Field", "UnsafeBufferPointer"]
+- ["C5MySQL5Field", "cField"]
+- ["C5MySQL5Field", "deinit"]
+- ["C5MySQL5Field", "init"]
+- ["C5MySQL5Field", "name"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "withMemoryRebound"]
+- ["SQ", "deinit"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Ps9Indexable", "string"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "init"]
+- !private ["Ps13IndexableBase", "string"]
+- !private ["Vs16IndexingIterator", "Element"]
+- ["Si", "deinit"]
+- !private ["Si", "init"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "init"]
+- !private ["Ps17MutableCollection", "string"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "init"]
+- !private ["Ps16MutableIndexable", "string"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- !private ["P13PathIndexable9PathIndex", "init"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps22RandomAccessCollection", "string"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "init"]
+- !private ["Ps21RandomAccessIndexable", "string"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps26RangeReplaceableCollection", "string"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "init"]
+- !private ["Ps25RangeReplaceableIndexable", "string"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "string"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- !private ["Ps10Strideable", "withMemoryRebound"]
+- ["SS", "deinit"]
+- ["Vs6UInt32", "deinit"]
+- !private ["SR", "Iterator"]
+- !private ["SR", "_Element"]
+- !private ["SR", "deinit"]
+- !private ["SR", "init"]
+- !private ["Sp", "deinit"]
+- !private ["Sp", "withMemoryRebound"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "init"]
+- !private ["Ps14_ArrayProtocol", "string"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps24_DestructorSafeContainer", "string"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "withMemoryRebound"]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "string"]
+- !private ["Ps8_Pointer", "withMemoryRebound"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps11_Strideable", "init"]
+- !private ["Ps11_Strideable", "withMemoryRebound"]
+- ["VSC14st_mysql_field", "deinit"]
+- !private ["VSC14st_mysql_field", "name"]
+- !private ["VSC14st_mysql_field", "name_length"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- !private "Ps17BitwiseOperations"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "P4Node7Context"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "C5MySQL5Field"
+- !private "Ps8Hashable"
+- "SQ"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps16IteratorProtocol"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- !private "P13PathIndexable9PathIndex"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- "SS"
+- "Vs6UInt32"
+- !private "SR"
+- !private "Sp"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps8_Pointer"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+- "VSC14st_mysql_field"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Core.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/libc.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/JSON.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Jay.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Node.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/PathIndexable.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Polymorphic.swiftmodule"
+interface-hash: "9a9df773435c46d3048c2d1067c2ca08"

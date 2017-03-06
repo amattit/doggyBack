@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/master.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Hash/Hash.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Hash.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Hash.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Hash~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Hash.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Hash/Method.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Method.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Method.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Method~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Method.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Hash/Random.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Random.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Random.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Hash.build/Random.swiftdeps"
+  }
+}

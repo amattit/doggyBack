@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e4196f494cbd5adcf4c09a87b038748a"
+build_time: [542102287, 706223000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": [541637246, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": [541637246, 0]

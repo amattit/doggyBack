@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/master.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/FluentMySQL-1.2.0/Sources/FluentMySQL/Creator+MySQLTypes.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/Creator+MySQLTypes.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/Creator+MySQLTypes.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/Creator+MySQLTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/Creator+MySQLTypes.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/FluentMySQL-1.2.0/Sources/FluentMySQL/MySQLDriver.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLDriver.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLDriver.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLDriver.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/FluentMySQL-1.2.0/Sources/FluentMySQL/MySQLSerializer.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLSerializer.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLSerializer.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/FluentMySQL.build/MySQLSerializer.swiftdeps"
+  }
+}

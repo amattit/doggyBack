@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "637f1a63ae5ac81748dcbb4cbf452e71"
+build_time: [542102300, 197526000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Multipart-1.0.1/Sources/FormData/ContentDispositionParser.swift": [541637277, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Multipart-1.0.1/Sources/FormData/Field.swift": [541637276, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Multipart-1.0.1/Sources/FormData/Parser.swift": [541637277, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Multipart-1.0.1/Sources/FormData/Serializer.swift": [541637277, 0]

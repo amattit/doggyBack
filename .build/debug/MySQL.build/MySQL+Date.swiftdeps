@@ -1,0 +1,283 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MySQLDateError"
+- "=="
+provides-nominal:
+- "O5MySQL14MySQLDateError"
+provides-member:
+- ["O5MySQL14MySQLDateError", ""]
+- ["V10Foundation4Date", ""]
+- ["V10Foundation4Date", "init"]
+- ["V10Foundation4Date", "mysql"]
+provides-dynamic-lookup:
+depends-top-level:
+- "DateFormatter"
+- "String"
+- !private "_df"
+- "MySQLDateError"
+- "=="
+- "AssignmentPrecedence"
+- !private "dateFormatter"
+- !private "StringLiteralType"
+- "Date"
+- "Swift"
+depends-member:
+- !private ["Ps9AnyObject", "date"]
+- !private ["Ps9AnyObject", "dateFormat"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "string"]
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["P4Core16BytesConvertible", "init"]
+- !private ["P4Core18BytesInitializable", "init"]
+- !private ["P4Core18BytesRepresentable", "init"]
+- !private ["Ps7CVarArg", "date"]
+- !private ["Ps7CVarArg", "dateFormat"]
+- !private ["Ps7CVarArg", "hashValue"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "string"]
+- !private ["Ps10Comparable", "MySQLDateError"]
+- !private ["Ps10Comparable", "dateFormatter"]
+- !private ["Ps10Comparable", "hashValue"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "MySQLDateError"]
+- !private ["Ps28CustomDebugStringConvertible", "date"]
+- !private ["Ps28CustomDebugStringConvertible", "dateFormat"]
+- !private ["Ps28CustomDebugStringConvertible", "dateFormatter"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "string"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "MySQLDateError"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "dateFormatter"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "MySQLDateError"]
+- !private ["Ps17CustomReflectable", "dateFormatter"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "MySQLDateError"]
+- !private ["Ps23CustomStringConvertible", "date"]
+- !private ["Ps23CustomStringConvertible", "dateFormat"]
+- !private ["Ps23CustomStringConvertible", "dateFormatter"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "string"]
+- !private ["V10Foundation4Date", "MySQLDateError"]
+- ["V10Foundation4Date", "String"]
+- !private ["V10Foundation4Date", "dateFormatter"]
+- ["V10Foundation4Date", "deinit"]
+- ["V10Foundation4Date", "init"]
+- ["V10Foundation4Date", "mysql"]
+- !private ["CSo13DateFormatter", "date"]
+- !private ["CSo13DateFormatter", "dateFormat"]
+- ["CSo13DateFormatter", "deinit"]
+- !private ["CSo13DateFormatter", "init"]
+- !private ["CSo13DateFormatter", "string"]
+- !private ["Ps9Equatable", "MySQLDateError"]
+- ["Ps9Equatable", "_code"]
+- ["Ps9Equatable", "_domain"]
+- ["Ps9Equatable", "_getEmbeddedNSError"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- ["Ps9Equatable", "_userInfo"]
+- !private ["Ps9Equatable", "date"]
+- !private ["Ps9Equatable", "dateFormat"]
+- !private ["Ps9Equatable", "dateFormatter"]
+- ["Ps9Equatable", "hashValue"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "invalidDate"]
+- !private ["Ps9Equatable", "string"]
+- ["Ps9Equatable", ""]
+- ["Ps5Error", "_code"]
+- ["Ps5Error", "_domain"]
+- ["Ps5Error", "_getEmbeddedNSError"]
+- ["Ps5Error", "_toAnyHashable"]
+- ["Ps5Error", "_userInfo"]
+- ["Ps5Error", "hashValue"]
+- !private ["Ps5Error", "invalidDate"]
+- ["Ps5Error", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["CSo9Formatter", "date"]
+- !private ["CSo9Formatter", "dateFormat"]
+- !private ["CSo9Formatter", "init"]
+- !private ["CSo9Formatter", "string"]
+- !private ["Ps8Hashable", "MySQLDateError"]
+- ["Ps8Hashable", "_code"]
+- ["Ps8Hashable", "_domain"]
+- ["Ps8Hashable", "_getEmbeddedNSError"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- ["Ps8Hashable", "_userInfo"]
+- !private ["Ps8Hashable", "date"]
+- !private ["Ps8Hashable", "dateFormat"]
+- !private ["Ps8Hashable", "dateFormatter"]
+- ["Ps8Hashable", "hashValue"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "invalidDate"]
+- !private ["Ps8Hashable", "string"]
+- ["Ps8Hashable", ""]
+- !private ["SQ", "deinit"]
+- ["Si", "deinit"]
+- !private ["Si", "hashValue"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- !private ["Ps10MirrorPath", "init"]
+- ["O5MySQL14MySQLDateError", "=="]
+- ["O5MySQL14MySQLDateError", "_code"]
+- ["O5MySQL14MySQLDateError", "_domain"]
+- ["O5MySQL14MySQLDateError", "_getEmbeddedNSError"]
+- ["O5MySQL14MySQLDateError", "_toAnyHashable"]
+- ["O5MySQL14MySQLDateError", "_userInfo"]
+- ["O5MySQL14MySQLDateError", "deinit"]
+- ["O5MySQL14MySQLDateError", "hashValue"]
+- ["O5MySQL14MySQLDateError", "invalidDate"]
+- !private ["PSo8NSCoding", "date"]
+- !private ["PSo8NSCoding", "dateFormat"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "string"]
+- !private ["PSo9NSCopying", "date"]
+- !private ["PSo9NSCopying", "dateFormat"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "string"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "date"]
+- !private ["CSo8NSObject", "dateFormat"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "string"]
+- !private ["PSo16NSObjectProtocol", "date"]
+- !private ["PSo16NSObjectProtocol", "dateFormat"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "string"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P4Node15NodeConvertible", "hashValue"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node17NodeInitializable", "hashValue"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeRepresentable", "hashValue"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- ["Sq", "deinit"]
+- !private ["P13PathIndexable9PathIndex", "hashValue"]
+- !private ["P13PathIndexable9PathIndex", "init"]
+- !private ["P11Polymorphic11Polymorphic", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "MySQLDateError"]
+- !private ["P10Foundation20ReferenceConvertible", "dateFormatter"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["Ps10Strideable", "hashValue"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "MySQLDateError"]
+- ["Ps9_Hashable", "_code"]
+- ["Ps9_Hashable", "_domain"]
+- ["Ps9_Hashable", "_getEmbeddedNSError"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- ["Ps9_Hashable", "_userInfo"]
+- !private ["Ps9_Hashable", "date"]
+- !private ["Ps9_Hashable", "dateFormat"]
+- !private ["Ps9_Hashable", "dateFormatter"]
+- ["Ps9_Hashable", "hashValue"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "invalidDate"]
+- !private ["Ps9_Hashable", "string"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "MySQLDateError"]
+- !private ["Ps21_ObjectiveCBridgeable", "dateFormatter"]
+- !private ["Ps21_ObjectiveCBridgeable", "hashValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps11_Strideable", "hashValue"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "Ps17BitwiseOperations"
+- !private "P4Core16BytesConvertible"
+- !private "P4Core18BytesInitializable"
+- !private "P4Core18BytesRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "V10Foundation4Date"
+- "CSo13DateFormatter"
+- "Ps9Equatable"
+- "Ps5Error"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "CSo9Formatter"
+- "Ps8Hashable"
+- !private "SQ"
+- "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "O5MySQL14MySQLDateError"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- "Sq"
+- !private "P13PathIndexable9PathIndex"
+- !private "P11Polymorphic11Polymorphic"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Core.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/libc.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/JSON.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Jay.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Node.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/PathIndexable.swiftmodule"
+- "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Polymorphic.swiftmodule"
+interface-hash: "4c1cb05776ca5925b0da02c99c2a4d43"

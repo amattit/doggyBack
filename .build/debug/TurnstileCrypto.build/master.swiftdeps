@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "cc4fe85107f9ad0831973c71061aa6e3"
+build_time: [542102287, 705808000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/TurnstileCrypto/BCrypt.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/TurnstileCrypto/Random.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/TurnstileCrypto/URandom.swift": [541637269, 0]

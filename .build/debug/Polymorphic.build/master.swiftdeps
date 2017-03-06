@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "77f8f000c79a1d67df75ef005aae34d2"
+build_time: [542102287, 705723000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [541637248, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [541637248, 0]

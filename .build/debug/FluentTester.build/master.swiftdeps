@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "be9791d70bad2e023757404df96c5cc1"
+build_time: [542102295, 675734000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Atom.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Compound.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Student.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+InsertAndFind.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+PivotsAndRelations.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Schema.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Utilities.swift": [541637239, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Fluent-1.4.1/Sources/FluentTester/Tester.swift": [541637239, 0]

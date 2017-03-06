@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e42b5b3bf7970745f439f9758991afb6"
+build_time: [542102292, 268690000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/TurnstileError.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Core/Subject.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Core/Turnstile.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Credentials/APIKey.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Credentials/Credentials.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Credentials/CredentialsError.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Credentials/Token.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Credentials/UsernamePassword.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Realm/Account.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Realm/MemoryRealm.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/Realm/Realm.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [541637269, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Turnstile-1.0.5/Sources/Turnstile/SessionManager/SessionManager.swift": [541637269, 0]

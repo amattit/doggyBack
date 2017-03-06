@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/VaporMySQL.build/master.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/VaporMySQL-1.0.0/Sources/VaporMySQL/Provider.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/VaporMySQL.build/Provider.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/VaporMySQL.build/Provider.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/VaporMySQL.build/Provider~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/VaporMySQL.build/Provider.swiftdeps"
+  }
+}

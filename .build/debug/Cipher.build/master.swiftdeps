@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "9815aa5e42b678e5cdfcff160a7becce"
+build_time: [542102292, 256683000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Cipher/Cipher.swift": [541637225, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Cipher/Method.swift": [541637223, 0]

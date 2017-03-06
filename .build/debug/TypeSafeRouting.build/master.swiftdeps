@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c8774c184ee9197e050d53f096c27623"
+build_time: [542102301, 799987000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Routing-1.0.2/Sources/TypeSafeRouting/Generated.swift": [541637274, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Routing-1.0.2/Sources/TypeSafeRouting/StringInitializable.swift": [541637274, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Routing-1.0.2/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [541637274, 0]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "641d667150610790eddc8b59c5298771"
+build_time: [542102303, 2483000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookie+BytesConvertible.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookie+Parse.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookie+Serialize.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookie.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookies+BytesConvertible.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookies+Literal.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookies+Parse.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookies+Serialize.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Cookies.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Request+Cookies.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Cookies/Response+Cookies.swift": [541637222, 0]

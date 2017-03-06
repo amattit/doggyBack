@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F37B6D8D1BAF6B9B5FFFCE09F3C070889F900ABA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D" : 9223372036854775807,
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : 9223372036854775807,
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3" : 9223372036854775807,
+    "F37B6D8D1BAF6B9B5FFFCE09F3C070889F900ABA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0DD93370-1AED-43A3-8EEB-7292B22BC609",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D" : "doggy.v1\/Packages\/Fluent-1.4.1\/",
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "doggy.v1\/Packages\/Jay-1.0.1\/",
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "doggy.v1\/Packages\/Polymorphic-1.0.1\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3" : "doggy.v1\/Packages\/Vapor-1.5.7\/",
+    "F37B6D8D1BAF6B9B5FFFCE09F3C070889F900ABA" : "doggy.v1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "doggy.v1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "doggy.v1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/vapor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/fluent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65880DAFEE5F57D1D1C181560E763EECFD96B06D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/polymorphic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DanToml\/Jay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/amattit\/doggyBack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F37B6D8D1BAF6B9B5FFFCE09F3C070889F900ABA"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4b1f79a6ba37dda0f71510c34685dd87"
+build_time: [542102290, 593016000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Certificates.swift": [541637255, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Config.swift": [541637255, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Context.swift": [541637255, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Error.swift": [541637255, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Mode.swift": [541637255, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Socket.swift": [541637255, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/TLS-1.1.1/Sources/TLS/Utilities.swift": [541637255, 0]

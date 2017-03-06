@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "41fe1bc663ae3e975c066002dc3565dd"
+build_time: [542102296, 18711000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/PercentDecoding.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Model/URI+Byte.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Model/URI+Modification.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Model/URI+Ports.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Model/URI+String.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Model/URI.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Parser/Parser+Components.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Parser/Parser+Public.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Parser/Parser+SubComponents.swift": [541637250, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Engine-1.3.11/Sources/URI/Parser/Parser.swift": [541637253, 0]

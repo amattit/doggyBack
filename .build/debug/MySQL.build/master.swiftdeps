@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "761c05ae98d53a26f9dded01a02974e2"
+build_time: [542102292, 908693000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Bind+Node.swift": [541637285, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Bind.swift": [541637285, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Binds.swift": [541637283, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Connection.swift": [541637285, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Database.swift": [541637285, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Error.swift": [541637283, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Field+Variant.swift": [541637283, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Field.swift": [541637283, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/Fields.swift": [541637283, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Date.swift": [541637285, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/MySQL-1.1.2/Sources/MySQL/MySQL+Node.swift": [541637283, 0]

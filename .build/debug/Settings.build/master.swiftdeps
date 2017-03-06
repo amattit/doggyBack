@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a5fa5cfcf8556a9229e168d36956d5ec"
+build_time: [542102303, 2483000]
+inputs:
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Config+Arguments.swift": [541637218, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Config+Directory.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Config.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/KeyAccessible+Merge.swift": [541637218, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/KeyAccessible.swift": [541637218, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Node+Merge.swift": [541637218, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Source.swift": [541637218, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Env/Env.swift": [541637218, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Env/Node+Env.swift": [541637222, 0]
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Vapor-1.5.7/Sources/Settings/Env/String+Env.swift": [541637222, 0]

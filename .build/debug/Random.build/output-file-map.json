@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/CryptoRandom.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/CryptoRandom.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/CryptoRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/CryptoRandom.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Random/Random.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/Random.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/Random.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/Random.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/URandom.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/Random.build/URandom.swiftdeps"
+  }
+}

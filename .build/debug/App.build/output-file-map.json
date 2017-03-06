@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Sources/App/main.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/main.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Sources/App/Models/Pet.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/Pet.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/Models/Pet.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/Pet~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/Pet.swiftdeps"
+  },
+  "/Users/mikhailseregin/Documents/work/doggy.v1/Sources/App/Models/User.swift": {
+    "dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/User.d",
+    "object": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/Models/User.swift.o",
+    "swiftmodule": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/mikhailseregin/Documents/work/doggy.v1/.build/debug/App.build/User.swiftdeps"
+  }
+}
